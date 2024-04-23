@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **itsmanishgautam@gmail.com**
 
-- ⚡ Fun fact **I think I know about Django, but everyday i am leraning new topics.**
+- ⚡ Fun fact **I think I know about Django, but everyday i am learning new topics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
