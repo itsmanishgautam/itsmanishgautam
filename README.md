@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Check out itsmanishgautam.github.io/resume/
 <h1 align="center">Hi 👋, I'm Manish Gautam</h1>
 <h3 align="center">I am a Backend developer from Nepal</h3>
 
