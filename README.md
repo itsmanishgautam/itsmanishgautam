@@ -1,4 +1,4 @@
-### Hi there 👋 Check out itsmanishgautam.github.io/resume/
+### Hi there 👋 Check out <a href ="itsmanishgautam.github.io/resume/">My Website</a>
 <h1 align="center">Hi 👋, I'm Manish Gautam</h1>
 <h3 align="center">I am a Backend developer from Nepal</h3>
 
