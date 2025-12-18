@@ -12,10 +12,7 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 ### 👨‍🎓 About Me
 - 🎓 MS student at **Texas Tech University (Lubbock, TX)**
-- 🤖 Working on **AI, ML, Deep Learning, and GenAI projects**
-- 🤝 Contribute to **team-based projects** using Git (branches, PRs, reviews)
-- 🧩 Own scoped components within larger systems
-
+- 🤖 Working on perfecting **AI, ML, Deep Learning, and GenAI Concepts**
 - 👨‍💻 GitHub: **github.com/itsmanishgautam**  
 - 📫 Email: **itsmanishgautam@gmail.com**
 
@@ -26,15 +23,11 @@ Artificial Intelligence • Machine Learning • Generative AI
 - Data preprocessing & feature engineering  
 - Neural Networks & Deep Learning  
 - Generative AI (LLMs, embeddings, prompts)
-
----
-
+  
 ### 🛠️ Tech Stack
 **Python · Pandas · NumPy · Scikit-learn · TensorFlow**  
 **Django · SQL · Git/GitHub · JavaScript · HTML · CSS**
-
 ---
-
 ### 🚀 Current Work
 - Implementing ML components in collaborative codebases  
 - Training, evaluating, and improving models  
@@ -53,7 +46,3 @@ Artificial Intelligence • Machine Learning • Generative AI
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmanishgautam&show_icons=true"/>
-</p>
