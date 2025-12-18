@@ -91,15 +91,3 @@ Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 ---
 
 ## 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmanishgautam&layout=compact"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmanishgautam&show_icons=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmanishgautam"/>
-</p>
