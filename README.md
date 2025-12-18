@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Gautam</h1>
 <h3 align="center">
 MS in Computer & Information Sciences @ Texas Tech University<br/>
-AI • Machine Learning • Deep Learning • Generative AI
+Artificial Intelligence • Machine Learning • Deep Learning • Generative AI
 </h3>
 
 <p align="center">
@@ -16,60 +16,64 @@ AI • Machine Learning • Deep Learning • Generative AI
 
 ---
 
-## 🎓 About Me
+## 👨‍🎓 About Me
 
 - 🎓 **Master’s student in Computer & Information Sciences** at **Texas Tech University (Lubbock, TX)**
-- 🤖 Actively preparing for **AI / ML / Generative AI internships**
-- 🔭 Building **hands-on AI projects** alongside graduate coursework
-- 🌱 Learning and applying:
-  - Machine Learning algorithms
-  - Neural Networks & Deep Learning
-  - Generative AI & Large Language Models
-- 🧠 Interested in **applied AI**, model training, experimentation, and real-world impact
+- 🤖 Working on **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**
+- 🔭 Contributing to **AI projects in collaborative, team-based environments**
+- 🧩 Experienced in **owning specific components** of larger systems while aligning with team goals
+- 🧠 Focused on writing **clean, maintainable, and review-friendly code**
 
 - 👨‍💻 GitHub: **https://github.com/itsmanishgautam**
 - 📫 Email: **itsmanishgautam@gmail.com**
 
 ---
 
-## 🧠 AI & ML Focus Areas
+## 🧠 AI & ML Focus
 
-- Supervised & Unsupervised Learning  
-- Model evaluation, feature engineering, and data preprocessing  
+- Machine Learning model development & evaluation  
+- Data preprocessing, feature engineering, and analysis  
 - Neural Networks & Deep Learning fundamentals  
-- Generative AI concepts (LLMs, prompt engineering, embeddings)  
-- Building ML pipelines using Python  
+- Generative AI workflows (LLMs, embeddings, prompt design)  
+- Python-based ML pipelines integrated into larger systems  
+
+---
+
+## 🤝 Team-Oriented Work Style
+
+- Collaborate using **Git-based workflows** (branches, pull requests, reviews)
+- Break down tasks and **deliver scoped features** within shared codebases
+- Actively review code and incorporate feedback
+- Communicate progress, blockers, and improvements clearly
+- Value **readability, documentation, and reproducibility**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Programming & Data
-- **Python** (primary language for AI/ML)
+- **Python**
 - SQL (MySQL, SQLite)
-- JavaScript (for basic frontend & integrations)
+- JavaScript
 
-### AI / ML Libraries
+### AI / ML Stack
 - **NumPy, Pandas**
 - **Scikit-learn**
 - **TensorFlow**
-- Data preprocessing & model evaluation tools
 
 ### Frameworks & Tools
-- Django (backend & APIs)
+- Django (APIs & backend services)
 - Git & GitHub
 - HTML, CSS, Bootstrap
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Current Work
 
-- AI & ML projects focused on **learning-by-building**
-- Experimenting with datasets, models, and evaluation techniques
-- Exploring **Generative AI** use cases for practical applications
-- Improving code quality, documentation, and reproducibility
-
-*(Project highlights are continuously being added.)*
+- Implementing **ML components** as part of collaborative projects
+- Training and evaluating models based on shared datasets and objectives
+- Supporting **data preparation and experimentation**
+- Improving existing models and pipelines through iteration and feedback
 
 ---
 
@@ -86,7 +90,7 @@ AI • Machine Learning • Deep Learning • Generative AI
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmanishgautam&layout=compact"/>
