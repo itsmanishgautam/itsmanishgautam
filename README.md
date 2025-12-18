@@ -23,16 +23,8 @@ Artificial Intelligence • Machine Learning • Generative AI
 - Data preprocessing & feature engineering  
 - Neural Networks & Deep Learning  
 - Generative AI (LLMs, embeddings, prompts)
-  
-### 🛠️ Tech Stack
-**Python · Pandas · NumPy · Scikit-learn · TensorFlow**  
-**Django · SQL · Git/GitHub · JavaScript · HTML · CSS**
----
-### 🚀 Current Work
-- Implementing ML components in collaborative codebases  
-- Training, evaluating, and improving models  
-- Writing clean, review-friendly, documented code  
-
+- Python · Pandas · NumPy · Scikit-learn · TensorFlow  
+- Django · SQL · Git/GitHub · JavaScript · HTML · CSS
 ---
 
 ### 🌐 Connect
