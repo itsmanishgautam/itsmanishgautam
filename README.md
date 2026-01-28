@@ -32,8 +32,8 @@ Artificial Intelligence • Machine Learning • Generative AI
   <a href="https://linkedin.com/in/itsmanishgautam" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28"/>
   </a>
-  <a href="https://fb.com/fbmanishgautam" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28"/>
+  <!-- <a href="https://fb.com/fbmanishgautam" target="_blank"> -->
+    <!-- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="28"/> -->
   </a>
 </p>
 
