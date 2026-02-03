@@ -3,8 +3,8 @@
 MS in Computer & Information Sciences @ Texas Tech University<br/>
 Artificial Intelligence • Machine Learning • Generative AI
 </h3>
-<p>
-  <a href="https:manishgtm.com.np" target="_blank">
+<p> My Website
+  <a href="https:manishgtm.com.np" target="_blank"> manishgtm.com.np
   </a></p>
 
 <p align="center">
