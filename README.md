@@ -3,6 +3,9 @@
 MS in Computer & Information Sciences @ Texas Tech University<br/>
 Artificial Intelligence • Machine Learning • Generative AI
 </h3>
+<p>
+  <a href="https:manishgtm.com.np" target="_blank">
+  </a></p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsmanishgautam&label=Profile%20views&color=0e75b6&style=flat" />
