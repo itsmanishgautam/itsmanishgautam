@@ -15,18 +15,18 @@ Artificial Intelligence • Machine Learning • Generative AI
 
 ### 👨‍🎓 About Me
 - 🎓 MS student at **Texas Tech University (Lubbock, TX)**
-- 🤖 Working on perfecting **AI, ML, Deep Learning, and GenAI Concepts**
+- 🤖 Working on perfecting **Data, Data Analysis, Data Pipeline, Pattern recognization**
 - 👨‍💻 GitHub: **github.com/itsmanishgautam**  
 - 📫 Email: **itsmanishgautam@gmail.com**
 
 ---
 
 ### 🧠 Focus
+- Data mining, cleaning, extracting, pattern recognition, normalization, export
 - Machine Learning & model evaluation  
-- Data preprocessing & feature engineering  
+- Data preprocessing, Visualization & feature engineering  
 - Neural Networks & Deep Learning  
-- Generative AI (LLMs, embeddings, prompts)
-- Python · Pandas · NumPy · Scikit-learn · TensorFlow  
+- Python · Pandas · NumPy · Scikit-learn · TensorFlow . Matplotlib
 - Django · SQL · Git/GitHub · JavaScript · HTML · CSS
 ---
 
