@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manish Gautam</h1>
 <h3 align="center">
 MS in Computer & Information Sciences @ Texas Tech University<br/>
-Artificial Intelligence • Machine Learning • Generative AI
+Data Analysis • Data Visualization • Machine Learning
 </h3>
 <p> My Website
   <a href="https://manishgtm.com.np" target="_blank"> manishgtm.com.np
